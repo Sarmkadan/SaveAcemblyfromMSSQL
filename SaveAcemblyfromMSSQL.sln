@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29319.158
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SaveAcemblyfromMSSQL", "SaveAcemblyfromMSSQL\SaveAcemblyfromMSSQL.csproj", "{7BE7AF86-2B14-4FF1-869D-2DC5D9A84001}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BE7AF86-2B14-4FF1-869D-2DC5D9A84001}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BE7AF86-2B14-4FF1-869D-2DC5D9A84001}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BE7AF86-2B14-4FF1-869D-2DC5D9A84001}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BE7AF86-2B14-4FF1-869D-2DC5D9A84001}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {165CEB1C-6A52-4237-8DDF-A9F27A9A3902}
+	EndGlobalSection
+EndGlobal
